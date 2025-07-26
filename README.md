@@ -1,4 +1,6 @@
-# Feature_Fusion
+<h1 align="center">
+  <b>Feature_Fusion</b><br>
+</h1>
 
 
 Here are some PyTorch implementations of feature fusion methods. Among them, MLP remains the most widely used—it's simple and works well in practice.
